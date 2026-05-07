@@ -4,7 +4,7 @@ Hi, I’m Naveen, an engineering student focused on building reliable, scalable 
 ---
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Nexorax-nk&theme=dracula" height="220"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nexorax-nk&theme=radical&hide_border=true" height="230" />
 </div>
 
 ---
