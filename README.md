@@ -21,6 +21,7 @@ Hi, I’m Naveen, an engineering student focused on building reliable, scalable 
 <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="60px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="60px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="60px"></img>
 
 ---
 
